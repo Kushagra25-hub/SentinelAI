@@ -1,0 +1,2 @@
+Feature Monitoring Status,Initial Feature Drift Signals,Confirmed Feature Drift,Prediction Monitoring Status,Prediction KS Statistic,Prediction P-Value,Overall Monitoring Status
+WARNING,3,0,DRIFT DETECTED,0.011703256326838551,1.4254712525359086e-05,DRIFT DETECTED

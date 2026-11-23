@@ -1,0 +1,2 @@
+Metric,KS Statistic,P-Value,Reference Mean,Current Mean,Reference Fraud Rate,Current Fraud Rate,Drift Detected
+Fraud Probability Distribution,0.011703256326838551,1.4254712525359086e-05,0.0016658956736276323,0.0015495365312092483,0.16631421270596528,0.1321679061079195,True
